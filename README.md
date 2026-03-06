@@ -34,7 +34,7 @@ This project prints a greeting message in the console.
 
 ## Author
 
-Your Name
+Believe 
 
 ## License
 
